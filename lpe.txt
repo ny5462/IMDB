@@ -1,0 +1,2 @@
+the query 1 was just trying to group movies based on release year, runtime and rating , to check different omvies with similar stats, it doesn't seem to go against any law, privacy or ethics, as its just to cluster.
+Query 1 is possibly offensive as it clusters actors who have born and died, and their average ratings are checked. But generally speaking, as it will cluster all actors of an era, hit or flop. So it raises questions, and is offensive to dead actors and maybe their families
